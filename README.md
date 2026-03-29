@@ -4,12 +4,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" title="Elixir" alt="Elixir" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cairo/cairo-original-wordmark.svg" title="Cairo" alt="Cairo" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>
+</div>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 

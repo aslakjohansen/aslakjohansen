@@ -28,6 +28,7 @@
 [![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff)](#)
 
 **Dabbled in:**
+
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff)](#)
